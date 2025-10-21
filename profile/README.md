@@ -16,10 +16,9 @@ _GomMold_ integrates AI-driven image analysis, weather-based prediction, and int
 | **Name** | **Organization** | **E-mail** |
 |:-----------:|:------------------:|:-------------:|
 | Aina Nur Insyeerah | Dept. of Information Systems | [syeera@hanyang.ac.kr](mailto:syeera@hanyang.ac.kr) |
-| Yumni Karmila | Dept. of Information Systems | [yumnikarmila@hanyang.ac.kr](mailto:yumnikarmila@hanyang.ac.kr) |
 | Nur Ain Syafiqah | Dept. of Information Systems | [ainrahiman@hanyang.ac.kr](mailto:ainrahiman@hanyang.ac.kr) |
 | Nur Shaqeerah | Dept. of Information Systems | [qeerashamsul@hanyang.ac.kr](mailto:qeerashamsul@hanyang.ac.kr) |
-
+| Yumni Karmila | Dept. of Information Systems | [yumnikarmila@hanyang.ac.kr](mailto:yumnikarmila@hanyang.ac.kr) |
 <!--
 
 **Here are some ideas to get you started:**
