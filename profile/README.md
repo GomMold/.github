@@ -1,6 +1,6 @@
-## GomMold
+# GomMold
 
-### Proposal
+## Proposal
 
 In South Korea and other humid regions, mold is a common household problem that can affect air quality and even impact health. Mold can appear anywhere, from bathrooms and bedrooms to kitchen walls. Traditional mold testing methods, which rely on visual inspection or slow microscopic analysis, are often time-consuming and inaccurate.
 
@@ -11,6 +11,14 @@ Imagine waking up and noticing light green spots on your wallpaper. Unsure wheth
 _GomMold_ integrates AI-driven image analysis, weather-based prediction, and interactive feedback to deliver accurate detection, daily mold risk levels, and practical cleaning and prevention tips. In the future, _GomMold_ could be integrated into smart home devices such as humidifiers or air purifiers for automated humidity control and mold prevention.
 
 
+## Members
+
+| **Name** | **Organization** | **E-mail** |
+|:-----------:|:------------------:|:-------------:|
+| Aina Nur Insyeerah | Dept. of Information Systems | [syeera@hanyang.ac.kr](mailto:syeera@hanyang.ac.kr) |
+| Yumni Karmila | Dept. of Information Systems | [yumnikarmila@hanyang.ac.kr](mailto:yumnikarmila@hanyang.ac.kr) |
+| Nur Ain Syafiqah | Dept. of Information Systems | [ainrahiman@hanyang.ac.kr](mailto:ainrahiman@hanyang.ac.kr) |
+| Nur Shaqeerah | Dept. of Information Systems | [qeerashamsul@hanyang.ac.kr](mailto:qeerashamsul@hanyang.ac.kr) |
 
 <!--
 
