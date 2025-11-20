@@ -21,6 +21,10 @@ _GomMold_ integrates AI-driven image analysis, weather-based prediction, and int
 | Yumni Karmila | Dept. of Information Systems | [yumnikarmila@hanyang.ac.kr](mailto:yumnikarmila@hanyang.ac.kr) |
 <!--
 
+<img width="865" height="254" alt="Screenshot 2025-11-20 at 10 59 48 PM" src="https://github.com/user-attachments/assets/44f38b34-0250-486c-88d4-0d3f94873eb1" />
+
+
+
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
