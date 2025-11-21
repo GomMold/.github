@@ -6,9 +6,9 @@ In South Korea and other humid regions, mold is a common household problem that 
 
 To address this issue, we introduce _GomMold_, an application that allows users to identify mold simply by uploading or taking photos with their own devices. _GomMold_ helps users detect potential mold growth in their homes and provides personalized analysis.
 
-Imagine waking up and noticing light green spots on your wallpaper. Unsure whether it’s mold or just dust, you open _GomMold_, snap a photo, and within seconds, the app identifies the issue and offers quick care advice.
+Imagine waking up and noticing light green spots on your wallpaper. Unsure whether it’s mold or just dust, you open _GomMold_, snap a photo, and within seconds, the app identifies the issue and gives advice through the chatbot.
 
-_GomMold_ integrates AI-driven image analysis, weather-based prediction, and interactive feedback to deliver accurate detection, daily mold risk levels, and practical cleaning and prevention tips. In the future, _GomMold_ could be integrated into smart home devices such as humidifiers or air purifiers for automated humidity control and mold prevention.
+_GomMold_ integrates AI-driven image analysis and interactive feedback to deliver accurate detection, and practical cleaning and prevention tips through the built-in chatbot. In the future, _GomMold_ could be integrated into smart home devices such as humidifiers or air purifiers for automated humidity control and mold prevention.
 
 [📄 GomMold Documentation](https://github.com/GomMold/GomMold_Document/raw/main/GomMold.pdf)
 
