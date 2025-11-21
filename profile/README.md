@@ -14,6 +14,7 @@ _GomMold_ integrates AI-driven image analysis and interactive feedback to delive
 
 ## Application Architecture
 <img src="https://github.com/GomMold/GomMold_Document/raw/main/Application%20Architecture.jpeg" alt="Application Architecture" width="870">
+
 ## Members
 
 | **Name** | **Organization** | **E-mail** |
