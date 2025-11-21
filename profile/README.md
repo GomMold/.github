@@ -10,7 +10,10 @@ Imagine waking up and noticing light green spots on your wallpaper. Unsure wheth
 
 _GomMold_ integrates AI-driven image analysis, weather-based prediction, and interactive feedback to deliver accurate detection, daily mold risk levels, and practical cleaning and prevention tips. In the future, _GomMold_ could be integrated into smart home devices such as humidifiers or air purifiers for automated humidity control and mold prevention.
 
+[📄 GomMold Documentation](https://github.com/GomMold/GomMold_Document/raw/main/GomMold.pdf)
 
+## Application Architecture
+<img src="https://github.com/GomMold/GomMold_Document/raw/main/Application%20Architecture.jpeg" alt="Application Architecture" width="870">
 ## Members
 
 | **Name** | **Organization** | **E-mail** |
