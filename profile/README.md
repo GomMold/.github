@@ -1,6 +1,6 @@
 # GomMold
 
-## Proposal
+## Overview
 
 In South Korea and other humid regions, mold is a common household problem that can affect air quality and even impact health. Mold can appear anywhere, from bathrooms and bedrooms to kitchen walls. Traditional mold testing methods, which rely on visual inspection or slow microscopic analysis, are often time-consuming and inaccurate.
 
