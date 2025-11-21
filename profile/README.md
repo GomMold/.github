@@ -10,7 +10,7 @@ Imagine waking up and noticing light green spots on your wallpaper. Unsure wheth
 
 _GomMold_ integrates AI-driven image analysis and interactive feedback to deliver accurate detection, and practical cleaning and prevention tips through the built-in chatbot. In the future, _GomMold_ could be integrated into smart home devices such as humidifiers or air purifiers for automated humidity control and mold prevention.
 
-[📄 GomMold Documentation](https://github.com/GomMold/GomMold_Document/raw/main/GomMold.pdf)
+[📄 GomMold Documentation](https://github.com/GomMold/GomMold_Document/blob/main/GomMold.pdf)
 
 ## Application Architecture
 <img src="https://github.com/GomMold/GomMold_Document/raw/main/Application%20Architecture.jpeg" alt="Application Architecture" width="870">
