@@ -1,5 +1,7 @@
 # GomMold
 
+![app banner](https://github.com/GomMold/GomMold_Document/blob/main/gommold_banner.png)
+
 ## Overview
 
 In South Korea and other humid regions, mold is a common household problem that can affect air quality and even impact health. Mold can appear anywhere, from bathrooms and bedrooms to kitchen walls. Traditional mold testing methods, which rely on visual inspection or slow microscopic analysis, are often time-consuming and inaccurate.
@@ -10,10 +12,19 @@ Imagine waking up and noticing light green spots on your wallpaper. Unsure wheth
 
 _GomMold_ integrates AI-driven image analysis and interactive feedback to deliver accurate detection, and practical cleaning and prevention tips through the built-in chatbot. In the future, _GomMold_ could be integrated into smart home devices such as humidifiers or air purifiers for automated humidity control and mold prevention.
 
-[📄 GomMold Documentation](https://github.com/GomMold/GomMold_Document/blob/main/GomMold.pdf)
-
 ## Application Architecture
 <img src="https://github.com/GomMold/GomMold_Document/blob/4394721af9483faf1351785fd693a0a7246cd3e1/architecture%20diagram%20(1).png" alt="Application Architecture" width="870">
+
+## Links 
+
+| Name (Link) | Tool |
+|-------------|------|
+| [Demo Video](https://bit.ly/48tRphf) | YouTube |
+| [Full Documentation](https://github.com/GomMold/GomMold_Document/blob/main/GomMold.pdf) | PDF |
+| [Main Blog](https://bit.ly/GomMold-Blog) | Notion |
+| [AI/Model Blog](https://bit.ly/GomMold_AI) | Notion |
+| [Final Presentation](https://github.com/GomMold/GomMold_Document/blob/main/GomMold%20Final%20Presentation.pdf) | PDF |
+
 
 ## Members
 
